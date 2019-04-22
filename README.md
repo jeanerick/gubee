@@ -1,0 +1,2 @@
+- Para rodar o backend: cd backend & mvnw spring-boot:run
+- Para rodar o frontend: cd frontend & npm run serve
